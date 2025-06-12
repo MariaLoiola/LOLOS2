@@ -44,5 +44,6 @@ const perguntas = [
             "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial."
         ]
     }
+    
 ]
 
